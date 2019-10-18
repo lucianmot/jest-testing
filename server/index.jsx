@@ -68,7 +68,7 @@ if(process.env.NODE_ENV === 'development') {
             hash: false,
             timings: false,
             chunks: false,
-            chunkModules: true
+            chunkModules: false
         }
     }));
 
