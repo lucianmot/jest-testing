@@ -15,7 +15,7 @@ const AppDisplay =  ()=>(
     <div>
         <div>
             <Link to={`/`}>
-                <h1>Isomorphic React its happening</h1>
+                <h1>Isomorphic React we need to stop this</h1>
             </Link>
         </div>
         <div>
