@@ -15,7 +15,7 @@ const AppDisplay =  ()=>(
     <div>
         <div>
             <Link to={`/`}>
-                <h1>Isomorphic React breaking</h1>
+                <h1>Isomorphic React ad</h1>
             </Link>
         </div>
         <div>
